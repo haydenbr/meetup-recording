@@ -32,4 +32,4 @@ So here's the steps you'll want to go through before and after each session and 
 
 ### Audio Backup
 
-- If for some reason there's an issue with the venue's audio setup and there's no audio coming over the loudspeakers as well as no audio input coming from the mixer, we have a lapel mic we can use as back up in one room. We'll have our mic tested in the morning and on standby in case this happens.
+- If for some reason there's an issue with the venue's audio setup and there's no audio coming over the loudspeakers as well as no audio input coming from the mixer, we have a lapel mic we can use as back up in one room. We'll have our mic tested in the morning and on standby in case this happens. Todd will also bring a portable recorder as a backup that can be used in any room.
