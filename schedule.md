@@ -2,32 +2,29 @@
 
 ## Overview
 
-6:30 - 7:45, arrive and set up rooms
+### Thursday
 
-- BlueRidge AB setup: Patrick and Eric
+8:00 pm set up and test AB and DE
 
-- BlueRidge C setup: Hayden
+### Friday
 
-- BlueRidge DE setup: Todd and Albert
+7:45 - 8:30 am, arrive, turn everything on, final testing
 
+8:30 - 9:15 am, buffer in case anything goes wrong, otherwise drink coffee and hangout
 
-7:45 - 8:30, test set up in all the rooms 🤞
+9:15 - 9:30 am, prepare for first session
 
-8:30 - 9:15, buffer in case anything goes wrong, otherwise drink coffee
+9:30 am - 12:30 pm, first round of sessions
 
-9:15 - 9:30, prepare for first session
+12:30 - 1:30 pm, lunch
 
-9:30 - 12:30, first round of sessions
+1:30 - 2:00 pm, prepare for second round of sessions
 
-12:30 - 1:30, lunch
+2:00 - 5:00 pm, second round of sessions
 
-1:30 - 2:00, prepare for second round of sessions
+5:00 - 6:00 pm, clean up
 
-2:00 - 5:00, second round of sessions
-
-5:00 - 6:00, clean up
-
-6:00, WE DID IT! 🎉🎉🎉
+6:00 pm, WE DID IT! 🎉🎉🎉
 
 ## Rooms
 
