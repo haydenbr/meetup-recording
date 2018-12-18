@@ -1,8 +1,8 @@
 {
-    "crf": 10,
+    "crf": 22,
     "keyint_sec": 2,
     "preset": "fast",
-    "profile": "high",
+    "profile": "",
     "rate_control": "CRF",
     "x264opts": "opencl=true"
 }
