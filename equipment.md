@@ -2,95 +2,60 @@
 
 ## Overview
 
-The image below gives an overview of all the different components involved and how they play together. It's not exactly to scale though so don't put too much stock into the distance or size of things. Just keep in mind that the rooms are pretty narrow from front to back.
+The schematic below provides an overview for a typical setup and how all the components play together. 
 
 <div style="width: 500px;">
-	<img alt="equipment-diagram" src="./images/equipment-diagram.png" />
+	<img alt="equipment-diagram" src="./images/equipment-setup-schematic.png" />
 </div>
-
-Of the things included in the diagram, we're not responsible for the project, the sound board, or the HDMI cord coming from the presenter's computer. We're responsible for setting everything else up for each of the three rooms.
 
 ## Equipment List
 
-Here's a list of all the components we'll have in each room.
+Here's a list of all the equipment needed
 
-- 1 USB webcam
-- 1 tripod
-- 1 USB over ethernet
-- 1 HDMI over ethernet
-- 1 HDMI to USB 3.0 capture card
-- 1 USB audio interface
-- 1 USB 3.0 hub
-- 2, 75ft. ethernet cables
-- 3 normal length HDMI cables
-- 1 short HDMI cable
-- 1, 6ft. XLR cable
-- 2 power strips
-- 3, 25ft. extension cords
-- at least one external hard drive
-- 1 card table 
-- 1 roll of gaffers tape
+- (1) USB webcam
+- (1) tripod
+- (1) USB over Ethernet
+- (1) HDMI over Ethernet
+- (1) HDMI to USB 3.0 capture card
+- (1) USB audio interface
+- (1) USB 3.0 hub
+- (2) 75ft Ethernet cables
+- (1) short, 6in - 3ft, HDMI cable
+- (1) medium, 3ft - 6ft, HDMI cable
+- (1) long, 30ft, HDMI cable
+- gaffers tape
+- XLR cable(s) as needed
+- extension cord(s) as needed
+- power strip(s) as needed
 
-When running any ethernet or extension cables, consult Todd or Hayden if there's any doubt.
+## Details
 
-## Recording Table
+Also, take note of the devices that need to be powered. You'll want to have enough extension cables handy in the case that a power outlet is not easily accessable from the location at which you need to place one of your powered components (i.e. the USB over Ethernet emitter).
 
-The card table is set up in the back room next to the sound board. Set up the computer and USB 3.0 hub on this table. We need up to 4 USB ports at a time so the USB hub solves this problem. Other components will also go on this table as different parts of the room are set up.
+After everything is set up, take care to tape down all of your cables with gaffers tape.
 
-There are plenty of power outlets in the back of the room, and a couple of the components need direct power. Plug an extension cord and power strip into the closest outlet and situate the power strip as close to the recording table as possible. For starters, the computer will need to be plugged in throughout the day.
+### Computer Setup
 
-<div style="width: 200px;">
-	<img alt="usb-hub" src="./images/usb-hub.jpg" />
-</div>
+This setup was designed for recording to take place in the back of the venue to reduce distraction for attendees and more importantly not to impede the presenter.
 
-## Presenter Feed
+### Camera Setup
 
-One of the most important parts of the presentation is the presenter's slides and example code. So how do we capture that and record it? The venue will already have set up a projector and HDMI cord that goes directly between the projector and the presenter's computer.
+Set up the camera and tripod in a location that gets a good view of the presenter, but does not block attendees' view. If there's an aisle in your venue, that might be a good option. When possible, try not to get too much of the projector screen in the presenter's background.
 
-<div style="width: 300px;" >
-	<img alt="hdmi-over-ethernet" src="./images/hdmi-over-ethernet.jpg" />
-</div>
+Another factor that might impact where you place the webcam is access to a power supply. The USB over Ethernet emitter on which the webcam depends is a powered device. Additionally, you'll want to make sure that your Ethernet cable has a clear path 
 
-### HDMI-ethernet emitter
+Keep in mind that you have no view finder so before the event starts, you'll want to have the camera already lined up for where the presenter will be standing. If the presenter likes to walk around (hopefully that's not the case) then you 
 
-The HDMI-ethernet emitter goes in between that HDMI cord and the projector. The HDMI-ethernet emitter has HDMI in and out ports on the front. The HDMI cord that's already there goes into the in port. Put an HDMI cord into the emitter's out port and plug the other end into the projector. Plug one of the ethernet cables into the emitter's ethernet port. This ensures that the presenter's feed to the projector is uninterrupted while we get a copy of the same data over the ethernet cable. Run the ethernet cable towards the recording table in the back of the room. (note: the emitter needs to be powered. I'm, thinking we should be able to plug it into the same power outlet as the projector)
+## Additional Considerations
 
-### HDMI-ethernet receiver
+### Audio
 
-Place the HDMI-ethernet receiver on the recording table and plug the other end of the ethernet cable into the receiver's ethernet port. The receiver needs to be powered so plug the power adapter into the power strip near the recording table. Plug the short HDMI cable (should be in the box with the HDMI-ethernet extender) into the receiver's HDMI out port.
+### Ethernet cables
 
-### HDMI capture card
+### HDMI Cables
 
-From there, the short HDMI cord can be plugged into the HDMI capture card, and the USB end of the capture card can be plugged into the USB hub using the included USB 3.0 cord.
+### Concerns regarding space
 
-<div style="width: 200px;" >
-	<img alt="hdmi-capture" src="./images/hdmi-capture.jpg" />
-</div>
+### Other concerns
 
-## Audio Signal
 
-The audio is pretty straightforward. We'll pick up the audio signal from the sound board over an XLR cable, which will then be plugged into the audio interface.
-
-<div style="width: 300px;" >
-	<img alt="audio-interface" src="./images/audio-interface.jpg" />
-</div>
-
-The audio interface comes with a USB 2.0 cord, which then goes directly into the USB hub. Pretty straightforward.
-
-## Video Feed
-
-The last major element is the video feed of the presenter. We're using USB webcams to record the speakers themselves.
-
-<div style="width: 200px;" >
-	<img alt="webcam" src="./images/webcam.jpg" />
-</div>
-
-Set this up on the tripod in the front of the room, 10-20 feet from the podium. (We'll get it exact as one of the last setup steps of the morning). Since USB can't go very far itself, we have to extend it over ethernet to the back of the room.
-
-<div style="width: 300px;" >
-	<img alt="usb-ethernet" src="./images/usb-over-ethernet.jpg" />
-</div>
-
-Put the USB-ethernet emitter underneath the camera on the floor somewhere. The emitter does need to be powered so we can run an extension cord from an outlet at the front of the room. From USB-ethernet emitter, run the other ethernet cable to the back of the room to the recording table. Put the USB-ethernet receiver on the table with everything else and plug the other end of the ethernet cable into the receiver. The USB output from the receiver can then be plugged into the USB hub.
-
-## Other Notes
