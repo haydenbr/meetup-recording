@@ -98,7 +98,7 @@ The audio interface is pretty straight-forward. Just make sure you have the righ
 	<img src="./images/audio-interface-config.png" />
 </div>
 
-One possible issue with the audio input is sometimes OBS seems to default to the OS audio input rather than the input selected for the audio intput source. If you have the Audio Interface plugged in and no audio input coming into the interface, the audio meter should be empty.
+One possible issue with the audio input is sometimes OBS seems to default to the OS audio input rather than the input selected for the audio input source. If you have the Audio Interface plugged in and no audio input coming into the interface, the audio meter should be empty.
 
 <div style="width: 400px;">
 	<img src="./images/audio-meter.png" />

@@ -1,4 +1,4 @@
-# Recording Flow
+# Recording and Streaming
 
 So here's the steps you'll want to go through before and after each session and a few other things during key points throughout the day.
 
@@ -15,7 +15,7 @@ So here's the steps you'll want to go through before and after each session and 
 ### After
 
 - Push "Stop Recording" 🙃
-- Wait a minute, then open the video file that was just recorded. Make sure it plays and you can hear the audio and see the video (if there's a problem with the file, there's nothign we can do to fix it, but at least we know ...)
+- Wait a minute, then open the video file that was just recorded. Make sure it plays and you can hear the audio and see the video (if there's a problem with the file, there's nothing we can do to fix it, but at least we know ...)
 - If the video file is all gucci, transfer it to the external hard drive. You can delete it from your file system to free up space for the next session.
 - If there was an issue with the video file, just leave it where it is. Maybe it'll magically recover by the end of the day.
 
