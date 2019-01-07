@@ -10,3 +10,13 @@ Documentation on the equipment and software needed for budget meetup recording. 
 - [Trouble Shooting](./trouble-shooting.md)
 - [Best Practices](./best-practices.md)
 - [Setup Checklist](./setup-checklist.md)
+
+### TODO:
+
+- set up checklist
+- playback mask
+- streaming
+- variations
+  - Google Hangouts
+  - Video over SDI
+  - HDMI over SDI
