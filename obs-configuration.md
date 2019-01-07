@@ -12,13 +12,13 @@ The profile contains all of the recording settings. Let's import that first. Ope
 	<img src="./images/toolbar-profile-import.png" />
 </div>
 
-In the dialog that appears, select the `obs/RVAJavaScript`, wherever you have this repo cloned on your computer.
+In the dialog that appears, select the `obs/MeetupProfile` from the root of this repository.
 
 <div style="width: 400px;">
 	<img src="./images/profile-import-dialog.png" />
 </div>
 
-Note that in the case of importing a profile, you're selecting a directory, not a config file. So select that folder, click Open, and it's imported. You could have multiple profiles so make sure that the RVAJavaScript profile is selected after importing it.
+Note that in the case of importing a profile, you're selecting a directory, not a config file. So select that folder, click Open, and it's imported. You could have multiple profiles so make sure that the MeetupProfile profile is selected after importing it.
 
 <div style="width: 400px;">
 	<img src="./images/select-profile.png" />
@@ -46,15 +46,15 @@ While you're here, make sure you set the Recording Path to wherever you want the
 
 ## Scene Collection
 
-Next we import the scene collection so you already have the necessary input sources set up. Similar to importing a Profile, in the toolbar, click on Scene Collection > Import. In the dialog, select `RVAJavaScript.Scenes.json`, which is located in the `obs` directory at the root of this repo.
+Next we import the scene collection so you already have the necessary input sources set up. Similar to importing a Profile, in the toolbar, click on Scene Collection > Import. In the dialog, select `MeetypScenes.json`, which is located in the `obs` directory at the root of this repo.
 
-After importing, make sure you have the RVAJavaScript scene collection selected.
+After importing, make sure you have the MeetupScenes scene collection selected.
 
 <div style="width: 300px;">
 	<img src="./images/select-scene.png" />
 </div>
 
-This will only give you a starting point though. You will probably still have to go back through and make sure all of your input sources are configured with the appropriate device or source. Let's go through each one ...
+This will only give you a starting point though. You will probably still have to go back through and make sure all of your input sources are configured with the appropriate device or source. Some of these pre-configured sources will not play nicely when plugging in the device or won't let you adjust the settings. If you find this to be the case, you might have to delete the source and re-add it. Let's go through each source ...
 
 <div style="width: 600px;">
 	<img src="./images/scene-sources.png" />
@@ -62,13 +62,11 @@ This will only give you a starting point though. You will probably still have to
 
 ### Playback Mask
 
-To configure the playback mask, select the Playback Mask in the source list, and click on the cog below the window.
+To configure the playback mask, select the Playback Mask in the source list, and click on the cog below the window to choose the image for the playback mask.
 
 <div style="width: 500px;">
 	<img src="./images/playback-mask-config.png" />
 </div>
-
-From here, select the appropriate image file from `playback-mask/BlueRidge<Room>` in this repo. You'll have to repeat this step before each talk to make sure you have the right playback mask, as there's one copy for each session with the presenter's name and the talk's title.
 
 ### HDMI Capture
 
@@ -98,10 +96,4 @@ The audio interface is pretty straight-forward. Just make sure you have the righ
 	<img src="./images/audio-interface-config.png" />
 </div>
 
-One possible issue with the audio input is sometimes OBS seems to default to the OS audio input rather than the input selected for the audio input source. If you have the Audio Interface plugged in and no audio input coming into the interface, the audio meter should be empty.
-
-<div style="width: 400px;">
-	<img src="./images/audio-meter.png" />
-</div>
-
-If this is the case, you're golden. If not, you'll need to go to System Preferences > Sound > Input, and select the USB Audio CODEC there as well. This doesn't seem to be a problem as of v23 so there shouldn't be any issue here 🤞.
+One possible issue with the audio input is sometimes OBS seems to default to the OS audio input rather than the input selected for the audio input source. Make sure to test your audio beforehand. If the audio OBS is picking up is not actually coming from your interface, you'll need to go to System Preferences > Sound > Input, and select the USB Audio CODEC there as well. This doesn't seem to be a problem as of OBS v23 so there shouldn't be any issue here, but do keep this in mind in case you experience set up issues with audio.
