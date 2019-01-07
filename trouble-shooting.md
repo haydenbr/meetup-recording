@@ -39,3 +39,9 @@ I've never seen this happen, but another possibility is your Ethernet cable is r
 At times, you may notice that the video input sources in OBS are a bit jumpy and/or laggy. If this is the case, check the CPU usage in the bottom right-hand corner of OBS. If that percentage gets too high (exactly how high will differ per machine) it can cause recording problems. Also check the bottom left-hand corner of the OBS window. You may see a warning that reads something along the lines of "Encoder overloaded". When one (or both) of these things happen, you'll need to turn down your encoder settings. You can't do this in the middle of recording, so you'll need to be strategic in how you handle this during an event. The specific settings you're looking for are in Settings > Output in OBS, under the Recording tab of Advanced mode or in Settings > Video. You definitely want your video sampling set to 30 FPS, but you might also need to play with bitrate and encoding settings as well.
 
 With all of this said, however, the OBS profile included with this repo is set up in such a way to avoid these kinds of problems.
+
+## Audio Problems
+
+If you're ever having audio problems, first check the last paragraph of the [OBS configuration](./obs-configuration.md), which calls out a gotcha that you might run into when setting up your audio input source in OBS.
+
+Another common point of failure is XLR cables themselves. If your chaining XLR cables together, which is totally acceptable if that's what you gotta do, it's possible to have one fail somewhere in there, and you'll have to figure out which is the faulty one.
