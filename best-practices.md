@@ -16,7 +16,9 @@ It's also helpful to have a couple committed members of the group that can help 
 
 ## Cables
 
-It never hurts to have spare cables on hand, in particular HDMI and XLR cables. You never know when one of these might fail. It might also be a good idea to have good quality HDMI to all-the-things (mostly micro HDMI and USB-C) adapters in case the presenter doesn't bring their own adapter (FAIL) or their adapter is crap.
+It never hurts to have spare cables on hand, in particular HDMI and XLR cables. You never know when one of these might fail. It might also be a good idea to have good quality HDMI to all-the-things (mostly micro HDMI and USB-C) adapters in case the presenter doesn't bring their own adapter (FAIL) or their adapter is crap (at least they tried).
+
+If you're working with multiple, long cables of the same type (hint: you'll at least have two super long Ethernet cables) give each of your cables arbitrary labels and label both ends of the cable. So for example, I just number all of my cables and then label each end of the cable with that number. This is really useful if you have to run both of your Ethernet cables via the same route. When you get back to the recording table, you probably will have forgotten which is for HDMI and which is for USB. If your cables are labeled, you can just go back and check which is plugged in to HDMI and which is for USB.
 
 If you need batteries for anything, keep extra batteries on hand.
 

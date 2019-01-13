@@ -40,6 +40,8 @@ At times, you may notice that the video input sources in OBS are a bit jumpy and
 
 With all of this said, however, the OBS profile included with this repo is set up in such a way to avoid these kinds of problems.
 
+For reference, [this video](https://www.youtube.com/watch?v=Je0Eh8j5RSQ&t=215s) is an example of a recording where the encoder was overloaded, and in [this one](https://www.youtube.com/watch?v=MJBpLzxDh6c&t=328s),the encoder wasn't overloaded. Notice the difference between the speakers' movements and motion of their slide content.
+
 ## Audio Problems
 
 If you're ever having audio problems, first check the last paragraph of the [OBS configuration](./obs-configuration.md), which calls out a gotcha that you might run into when setting up your audio input source in OBS.

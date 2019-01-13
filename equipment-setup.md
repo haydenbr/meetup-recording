@@ -5,7 +5,7 @@
 The schematic below provides an overview for a typical setup and how all the components play together. 
 
 <div style="width: 500px;">
-	<img alt="equipment-diagram" src="./images/equipment-setup-schematic.png" />
+	<img src="./images/equipment-setup-schematic.png" />
 </div>
 
 ## Equipment List

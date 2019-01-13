@@ -1,4 +1,4 @@
-# OBS Config
+# OBS Configuration
 
 Before getting started, please make sure you have the latest version of [OBS installed](https://obsproject.com/download), which is version 23 at the time of this writing.
 
