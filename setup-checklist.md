@@ -4,7 +4,7 @@ This will vary based on your specific set up, but this is a basic summary of pre
 
 ## Before the Day of the Event
 
-- [ ] Prepare your [playback masks](./playback-mask).
+- [ ] Prepare your [playback masks](./playback-mask.md).
 - [ ] Get a clear idea of the venue and its AV setup. You can find a list of questions you may want to ask [here](./best-practices.md##Logistics).
 
 ## The Day of the Event

@@ -1,6 +1,6 @@
 # Playback Mask
 
-The playback mask is an image layer, typically a PNG with transparency, that will overlay the video of the speaker and their slides in the session recording. You can add the playback mask to the recording using OBS, explained in the [OBS config section](./obs-configuration), or after the fact in your video editor, but OBS is the easier option in most cases.
+The playback mask is an image layer, typically a PNG with transparency, that will overlay the video of the speaker and their slides in the session recording. You can add the playback mask to the recording using OBS, explained in the [OBS config section](./obs-configuration.md), or after the fact in your video editor, but OBS is the easier option in most cases.
 
 <div style="width: 500px;">
 	<img src="./images/playback-mask-example.png" />
